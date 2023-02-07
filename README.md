@@ -18,7 +18,8 @@
 -
 
 #### Applying
-
+- [Processing](https://processing.org/)
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
 - Practice problems - TO DO
 - [ProjectEuler](projecteuler.com)
 

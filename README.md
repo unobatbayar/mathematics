@@ -21,7 +21,6 @@
 - [Processing](https://processing.org/)
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
 - [WolframAlpha](https://www.wolframalpha.com/)
-- Practice problems - TO DO
 - [ProjectEuler](projecteuler.com)
 
 #### For my siblings

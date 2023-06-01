@@ -1,7 +1,7 @@
 <div align="center">
   <h1><code>mathematics</code></h1>
   
-  <strong>Advance your mathematics for Software Engineering</strong>
+  <strong>Advance your mathematics for engineering</strong>
   
   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/unobatbayar.svg?style=social&label=%40unobatbayar)](https://twitter.com/unobatbayar)
 </div>

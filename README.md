@@ -1,9 +1,7 @@
 <div align="center">
   <h1><code>mathematics</code></h1>
   
-  <strong>Learning mathematics for engineering, academia and beyond</strong>
-  
-  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/unobatbayar.svg?style=social&label=%40unobatbayar)](https://twitter.com/unobatbayar)
+  <strong>Learning mathematics for engineering, academia and beyond</strong>  
 </div>
 
 #### Systematic learning
@@ -12,7 +10,7 @@
 - [How to Teach Yourself Math](https://www.scotthyoung.com/blog/2018/12/11/teach-yourself-math/)
 - [What kind of mathematics are useful to software engineers?](https://www.quora.com/What-kind-of-mathematics-are-useful-to-software-engineers)
 
-#### Khan Academy Math
+#### Khan Academy - Math progress
 - [ ] [Basic geometry and measurement](https://www.khanacademy.org/math/basic-geo)
 - [ ] [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
 - [ ] [Algebra basics](https://www.khanacademy.org/math/algebra-basics)
